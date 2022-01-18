@@ -13,6 +13,9 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=CodingPythonMan&theme=merko&show_icons=true"/> <a href="https://github.com/CodingPythonMan/github-readme-stats"> &nbsp
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingPythonMan&theme=merko&layout=compact"/>
+
 <!--
 **CodingPythonMan/CodingPythonMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
