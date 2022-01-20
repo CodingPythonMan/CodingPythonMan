@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=footer&text=Kim Ju Young Devs%20render&fontSize=90)
 
 <h3 align="center"><b>⚒Stacks⚒</b></h3>
 
