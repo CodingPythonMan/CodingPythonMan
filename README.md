@@ -19,9 +19,8 @@
 
 <h3 align="center"><b>✨ Github Stats ✨</b></h3></br>
 <p align="center">	
-<img src="https://github-readme-stats.vercel.app/api?username=CodingPythonMan&theme=merko&show_icons=true"/> <a href="https://github.com/CodingPythonMan/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingPythonMan&theme=merko&layout=compact"/>
-
+![](https://github.com/CodingPythonMan/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/CodingPythonMan/github-stats-transparent/blob/output/generated/languages.svg)
 <!--
 **CodingPythonMan/CodingPythonMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
