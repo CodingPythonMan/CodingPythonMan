@@ -1,4 +1,4 @@
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Cylinder&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=timeauto&text=JuYoung%20Kim&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=BackEnd%20Programmer&descAlignY=70)
 
 <h3 align="center"><b>⚒Stacks⚒</b></h3>
 
@@ -19,8 +19,10 @@
 
 <h3 align="center"><b>✨ Github Stats ✨</b></h3></br>
 <p align="center">	
-![](https://github.com/CodingPythonMan/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/CodingPythonMan/github-stats-transparent/blob/output/generated/languages.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=CodingPythonMan&theme=merko&show_icons=true"/> <a href="https://github.com/CodingPythonMan/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingPythonMan&theme=merko&layout=compact"/>
+</p>
+
 <!--
 **CodingPythonMan/CodingPythonMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
