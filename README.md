@@ -3,7 +3,8 @@
 <h3 align="center"><b>⚒Stacks⚒</b></h3>
 
 <p align="center">
-  <b>Main Language : </b><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp;
+  <b>Main Language : </b><img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=Java&logoColor=white"/> &nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp;
 </p>
 <p align="center">
 <b>Front-End : </b><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp;
