@@ -1,4 +1,4 @@
-![soft](https://capsule-render.vercel.app/api?type=soft&color=timeauto&text=JuYoung%20Kim&fontColor=AAD100&fontAlignY=45&fontSize=40&height=150&desc=Server Developer%20Programmer&descAlignY=70&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=timeauto&text=JuYoung%20Kim&fontColor=AAD100&fontAlignY=45&fontSize=40&height=150&desc=ServerDeveloper%20Programmer&descAlignY=70&animation=twinkling)
 
 <h3 align="center"><b>⚒Stacks⚒</b></h3>
 
