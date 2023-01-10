@@ -4,18 +4,15 @@
 
 <p align="center">
   <b>Main Language : </b><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/> &nbsp;
-  <img src="https://img.shields.io/badge/-c++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> &nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> &nbsp;
 </p>
 <p align="center">
-<b>Front-End : </b></b><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
-</p>
-<p align="center">
-<b>Back-End : </b><img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/> &nbsp;
+<b>DB : </b><img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white"/> &nbsp;
+</p>
+<p align="center">
+<b>Web : </b><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=white"/>
 </p>
 
 <br>
