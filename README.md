@@ -3,13 +3,33 @@
 <!-- 웨이브 헤더 -->
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=timeauto&text=JuYoung%20Kim&fontColor=AAD100&fontAlignY=45&fontSize=40&height=150&desc=Server%20Developer&descAlignY=70&animation=twinkling)
 
+```yaml
+name: JuYoung Kim
+located_in: South Korea 🇰🇷
+current_job: Game Server Developer
+education: Computer Engineering
+
+interests:
+  - Web
+  - Music
+  - Automation
+
+currently_learning:
+  - System Architecture
+
+hobbies:
+  - Play recorder
+  - Health
+```
+
+<br clear="right"/>
 ---
 
 ### ⚒Stacks⚒
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c++,c#,git&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,visualstudio&theme=dark&perline=8" />
 
 </div>
 
